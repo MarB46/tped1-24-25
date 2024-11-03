@@ -1,0 +1,135 @@
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.barracabecera{
+    background-color: #003245;
+    background-image: url(img/el_pais_logo.jpg);
+    padding: 10px 20px 20px 20px;
+    display: flex;
+    height: 35px;
+    width: 100%;
+}
+
+.menu{
+    background-color: #003245;
+    font-family: Helvetica, sans-serif;
+    color: white;
+    width: 100%;
+    list-style: none;
+    text-align: center;
+    position: fixed;
+}
+
+.menu li{
+    display: inline;
+    padding-right: 15px;
+}
+
+.menu a:link{
+    text-decoration: none;
+    color: white;
+}
+
+.menu a:hover{
+    margin-left: 10px;
+}
+
+.cabeceraimagen{
+    background-image: url ('img/el_pais_logo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 800px;
+}
+
+.primercuerpo,.segundocuerpo,.tercercuerpo,.cuartocuerpo,.quintocuerpo{
+    padding: 40px 500px 100px 500px;
+}
+
+.sextocuerpo, .conclusiones{
+   padding: 0px 500px 20px 500px;
+}
+
+.segundocuerpo h1, .tercercuerpo h1, .cuartocuerpo h1, .quintocuerpo h1, .sextocuerpo h1{
+    font-size: 20px;
+}
+
+.segundaimagen, .terceraimagen, .cuartaimagen, .quintaimagen, .sextaimagen{
+    margin: auto;
+    display: flex;
+    height: 450px;
+}
+
+.segundocuerpo ul, .tercercuerpo ul, .cuartocuerpo ul, .quintocuerpo ul, .sextocuerpo ul{
+    list-style: '-';
+    padding-left: 10px;
+}
+
+.primercuerpo h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: 55px;
+    text-align: center;
+}
+
+.primercuerpo h2{
+    font-weight: lighter;
+    font-size: 17px;
+    text-align: center;
+}
+
+a.uno:link,a.dos:link{
+    color: gray;
+    text-decoration: solid;
+}
+
+a.uno:visited,a.dos:visited{
+    color: gray;
+    text-decoration: solid;
+}
+
+.primercuerpo h3{
+    font-size: 13px;
+    text-align: center;
+}
+.primercuerpo h4{
+    font-size: 10px;
+    text-align: center;
+}
+
+a.tres:link,a.cinco:link, a.seis:link, a.siete:link, a.ocho:link{
+    color:black;
+    font-weight: bold;
+}
+a.cuatro:link{
+    color:black;
+    font-weight: bold;
+    font-style: italic;
+}
+
+a.tres:visited,a.cinco:visited, a.seis:visited, a.siete:visited, a.ocho:visited{
+    color:black;
+    font-weight: bold;
+}
+
+a.cuatro:visited{
+    color:black;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.banner{
+    padding: 10px;
+    max-width: 520px;
+    margin: auto;
+    display: flex;
+}
+
+.logottp{
+    display: flex;
+    margin: auto;
+    height: 15px;
+}
