@@ -1,0 +1,17 @@
+.branding{
+    height: 10vh;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    background-color: #2b542e;
+    text-align: center;
+}
+.descripcion{
+    height: 104vh;
+}
+.imagenprincipal{
+    height: 52vh;
+}
+.fotos{
+    height: 52vh;
+    margin-top: 31px;
+}

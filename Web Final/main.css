@@ -1,0 +1,41 @@
+body{
+    font-family: poppins, sans-serif;
+}
+.bandeja{
+    height: 5vh;
+    width: 2rem; 
+    height:2rem;
+    margin-bottom: 20px;
+}
+.carrusel{
+    height: 90vh;
+}
+.alto{
+    height: 49vh;
+}
+.cabecera{
+    height: 15vh;
+}
+.grid{
+    place-items: center;
+}
+.titulo{
+    height: 10vh;
+    margin-top: 20px;
+}
+.proyectos{
+    height: 10vh;
+    margin-top: 30px;
+    background-color: #2b542e;
+    text-align: center;
+}
+.descripcion{
+    height: 20vh;
+}
+.espacioAbajo{
+    margin-bottom: 20px;
+}
+.barra{
+    height: 2vh;
+    background-color: #8fbc8f;
+}

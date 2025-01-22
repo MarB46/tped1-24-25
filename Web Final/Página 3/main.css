@@ -1,0 +1,29 @@
+.barra{
+    height: 2vh;
+    background-color: #8fbc8f;
+    margin-top: 60px;
+}
+.titulo{
+    height: 50vh;
+    margin-top: 160px;
+}
+.titulo #hola{
+    font-size: 50px;
+}
+.titulo .lead{
+    font-size: 30px;
+}
+.imagen{
+    height: 90vh;
+}
+.espacioAbajo{
+    margin-bottom: 30px;
+}
+.eslogan{
+    height: 20vh;
+    text-align: center;
+}
+.pie{
+    margin-top: 200px;
+    height: 5vh;
+}
