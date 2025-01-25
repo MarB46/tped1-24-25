@@ -5,13 +5,16 @@
     background-color: #2b542e;
     text-align: center;
 }
+.bandeja{
+    font-style: inherit;
+    text-align: vertical;
+}
 .descripcion{
     height: 104vh;
 }
 .imagenprincipal{
-    height: 52vh;
+    height: 70vh;
 }
 .fotos{
-    height: 52vh;
-    margin-top: 31px;
+    height: 10vh;
 }

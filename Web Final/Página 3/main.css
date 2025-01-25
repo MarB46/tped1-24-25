@@ -3,6 +3,10 @@
     background-color: #8fbc8f;
     margin-top: 60px;
 }
+.bandeja{
+    font-style: inherit;
+    text-align: vertical;
+}
 .titulo{
     height: 50vh;
     margin-top: 160px;
@@ -17,7 +21,7 @@
     height: 90vh;
 }
 .espacioAbajo{
-    margin-bottom: 30px;
+    margin-bottom: 150px;
 }
 .eslogan{
     height: 20vh;

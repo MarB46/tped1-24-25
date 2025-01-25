@@ -5,7 +5,8 @@ body{
     height: 5vh;
     width: 2rem; 
     height:2rem;
-    margin-bottom: 20px;
+    font-style: inherit;
+    text-align: vertical;
 }
 .carrusel{
     height: 90vh;
@@ -21,11 +22,9 @@ body{
 }
 .titulo{
     height: 10vh;
-    margin-top: 20px;
 }
 .proyectos{
     height: 10vh;
-    margin-top: 30px;
     background-color: #2b542e;
     text-align: center;
 }
@@ -33,7 +32,7 @@ body{
     height: 20vh;
 }
 .espacioAbajo{
-    margin-bottom: 20px;
+    margin-bottom: 100px;
 }
 .barra{
     height: 2vh;
